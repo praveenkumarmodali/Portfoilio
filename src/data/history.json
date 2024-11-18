@@ -7,7 +7,7 @@
     "experiences": [
       "Worked on implementing and developing reusable UI modular components using React"
     ],
-    "imageSrc": "history/mec.jpeg"
+    "imageSrc": "hero/mec.jpg"
   },
 
   {
@@ -16,6 +16,6 @@
     "startDate": "Oct, 2022",
     "endDate": "Oct, 2023",
     "experiences": ["Worked on Automation", "Collaborated with developers"],
-    "imageSrc": "history/acc.jpg"
+    "imageSrc": "hero/acc.png"
   }
 ]
