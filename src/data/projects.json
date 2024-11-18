@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Eat and Split",
+    "imageSrc": "projects/project.png",
+    "description": "This is a simple app that calculates the overall bill and splits it with friends.",
+    "skills": ["React Hooks", "State management"],
+    "demo": "https://eatansplitthebill.netlify.app"
+  },
+  {
+    "title": "Movies Now.",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project where we can fetch movies with live API",
+    "skills": ["React", "Data fetching"],
+    "demo": "https://moviesnowapi.netlify.app"
+  },
+  {
+    "title": "Mark the location",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project where users can mark their location with the help Geo location",
+    "skills": ["React", "ContextAPI"],
+    "demo": "https://markthelocation.netlify.app"
+  },
+  {
+    "title": "The Wild Oasis",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made using React and Next. CRUD operations using Supabase/ (Under development)",
+    "skills": ["React", "Next", "Supabase"],
+    "demo": "https://the-wild-oasis-six-nu.vercel.app/",
+    "source": "Under development",
+    "overview": "Under developemnt"
+  }
+]

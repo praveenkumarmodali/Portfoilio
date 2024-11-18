@@ -1,0 +1,21 @@
+[
+  {
+    "role": "Front-End Developer",
+    "organisation": "MECIT labs llp",
+    "startDate": "November, 2023",
+    "endDate": "December, 2024 ",
+    "experiences": [
+      "Worked on implementing and developing reusable UI modular components using React"
+    ],
+    "imageSrc": "history/mec.jpeg"
+  },
+
+  {
+    "role": "SDET",
+    "organisation": "Accenture",
+    "startDate": "Oct, 2022",
+    "endDate": "Oct, 2023",
+    "experiences": ["Worked on Automation", "Collaborated with developers"],
+    "imageSrc": "history/acc.jpg"
+  }
+]
