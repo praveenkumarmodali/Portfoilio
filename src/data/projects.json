@@ -25,7 +25,7 @@
     "imageSrc": "projects/project.png",
     "description": "This is a project made using React and Next. CRUD operations using Supabase/ (Under development)",
     "skills": ["React", "Next", "Supabase"],
-    "demo": "https://the-wild-oasis-six-nu.vercel.app/",
+    "demo": "https://cabin-comfort.vercel.app",
     "source": "Under development",
     "overview": "Under developemnt"
   }
