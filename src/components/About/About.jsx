@@ -27,7 +27,7 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>SDET</h3>
+              <h3>Quality Assurance Associate</h3>
               <p>
                 I have experience in automation web applications using Selenium
                 WebDriver and Python.
